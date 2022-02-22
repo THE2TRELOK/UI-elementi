@@ -7,8 +7,10 @@ Unity projekts ar UI elementu lietojumu
 - [x] Input Field elements
 - [x] Toggle elements
 - [x] Image elements
-- [ ] Panel elements
-- [ ] Slider elements
-- [ ] Audio source elements
-- [ ] Drop down elements
+- [x] Panel elements
+- [x] Slider elements
+- [x] Audio source elements
+- [x] Drop down elements
 - [x] c# Skriptu izveide
+- [ ] Iespeja parvitot objektu ar peli
+- [ ] Ieviests scrollbar
